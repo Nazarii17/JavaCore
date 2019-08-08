@@ -130,7 +130,7 @@ public class App {
 
 ////HW Task1
 
-        System.out.println("\nEnter the year, please");
+        System.out.println("\nEnter the year, please.");
         int year = scaner.nextInt();
         String leapYear;
         boolean isLeap;
