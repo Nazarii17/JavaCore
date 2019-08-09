@@ -35,7 +35,7 @@ public class PersonTestDrive {
                 peopleList.add(person);
 
             } else if (!((anyChoice.equals("s"))) && (!(anyChoice.equals("f")))) {
-                System.out.println("Unacceptable symbol\nPlease try again!\n");
+                System.out.println("Unacceptable symbol\nPlease try again! \n");
             }
 
         } while (!anyChoice.equals("f"));
